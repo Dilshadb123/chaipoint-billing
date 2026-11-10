@@ -11,4 +11,4 @@ if total >= 100:
 else:
     discount = 0
 final = total - discount
-print(f"item:{item} | price:{price} | qty:{quantity} | Total:{total} | Discount:{discount} | Final:{final}")
+print(f"Item: {item} | Price: {price} | Qty: {quantity} | Total: {total} | Discount: {discount} | Final: {final}")
